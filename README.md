@@ -4,13 +4,13 @@
 
 ![](./img/dojo-owasp.png)
 
-A hands-on workshop on securing AI agents, focused on **ASI02: Tool Misuse & Exploitation** from the OWASP Top 10 for Agentic Applications. You will attack a tool-using AI agent, then harden it. Full step-by-step instructions are in the [workshop guide](https://github.com/DojoBits/sap-summit-2026/tree/main/workshop-guide).
+A hands-on workshop on securing AI agents, focused on **ASI02: Tool Misuse & Exploitation** from the OWASP Top 10 for Agentic Applications. You will attack a tool-using AI agent, then harden it. Full step-by-step instructions are in the [workshop guide](https://github.com/DojoBits/ista-2026/tree/main/workshop-guide).
 
 Delivered by **DojoBits**
 
 </div>
 
-🔗 **Workshop Repository** [SAP Security and Compliance Expert Summit](https://github.com/DojoBits/sap-summit-2026)
+🔗 **Workshop Repository** [ISTAcon 2026](https://github.com/DojoBits/ista-2026)
 
 ---
 
@@ -51,7 +51,7 @@ To successfully complete the workshop you will need:
 
 The workshop includes hands-on exercises that take you through the full **attack → defend** lifecycle of an AI agent: using it normally, exploiting its tools three different ways, and then locking those tools down.
 
-Participants can follow the full step-by-step instructions in the [workshop guide](https://github.com/DojoBits/sap-summit-2026/tree/main/workshop-guide)
+Participants can follow the full step-by-step instructions in the [workshop guide](https://github.com/DojoBits/ista-2026/tree/main/workshop-guide)
 
 ## 🏢 About DojoBits
 

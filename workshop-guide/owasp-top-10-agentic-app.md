@@ -82,10 +82,10 @@ Clone the lab repo from GitHub:
 
 ```bash
 cd ~
-git clone https://github.com/DojoBits/sap-summit-2026.git
+git clone https://github.com/DojoBits/ista-2026.git
 
 # Move the lab into home directory
-mv sap-summit-2026/lab ~/lab
+mv ista-2026/lab ~/lab
 cd ~/lab
 ```
 
